@@ -27,12 +27,13 @@ From low-level C++ to sleek JavaScript frontends, I’m all about shipping meani
 ---
 
 ### 🎯 2025 Goals
+- '-' = Work in Progress, 'x' = Complete, '~' = Not Started
 - [x] Learn C++ & Java basics
 - [x] Build portfolio projects
 - [ ] Launch my own portfolio website
 - [ ] Get freelance or internship opportunity
 - [ ] Contribute to open source
-- [x] Build and grow [404 Society](https://discord.gg/sKaQk2839A) — a dev collab hub
+- [-] Build and grow [404 Society](https://discord.gg/sKaQk2839A) — a dev collab hub
 
 ---
 
