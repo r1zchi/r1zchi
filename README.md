@@ -11,7 +11,7 @@ From low-level C++ to sleek JavaScript frontends, I’m all about shipping meani
 `JavaScript` | `Python` | `C++` | `Java` | `HTML/CSS`
 
 **Tools & Frameworks:**  
-`React Native` | `Node.js` | `MongoDB` | `Firebase` | `Express.js` | `Tailwind CSS` | `Expo`
+`React Native` | `Node.js` | `MongoDB` | `Firebase` | `Express.js` | `Tailwind CSS` | `Expo` | `SupaBase`
 
 **Design & Prototyping:**  
 `Penpot` | `Figma` | `Canva` | `Midjourney`
